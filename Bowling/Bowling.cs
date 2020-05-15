@@ -67,6 +67,10 @@ namespace Bowling
             }
         }
 
+        /// <summary>
+        /// Algorithm for calculating the score of a completed game of bowling.
+        /// </summary>
+        /// <returns>Total score of the completed game</returns>
         public int GetScore()
         {
             var gameScore = 0;
