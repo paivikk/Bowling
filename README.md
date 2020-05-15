@@ -12,7 +12,9 @@ The executable expects input in the format defined for the use cases in the spec
 [a1|b1] [a2|b2] [a3|b3] ... [an|bn|cn]
 
 Examples:
+```
 Bowling "[7|3] [5|5] [0|10] [1|1] [0|0] [0|0] [0|0] [0|0] [0|0] [0|0]"
 Bowling "[5|5] [5|5] [5|5] [5|5] [5|5] [5|5] [5|5] [5|5] [5|5] [5|5|5]"
+```
 
 The executable outputs the score of the game on the console.
